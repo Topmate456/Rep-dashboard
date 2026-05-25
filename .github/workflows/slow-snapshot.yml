@@ -1,0 +1,49 @@
+name: Daily slow-metrics snapshot
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: "slow-snapshot"
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Compute slow metrics
+        env:
+          HUBSPOT_ACCESS_TOKEN: ${{ secrets.HUBSPOT_ACCESS_TOKEN }}
+        timeout-minutes: 45
+        run: python dashboard.py --once --write-slow-snapshot
+
+      - name: Commit slow_metrics.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add slow_metrics.json
+          if git diff --staged --quiet; then
+            echo "No changes to slow_metrics.json — skipping commit."
+          else
+            git commit -m "auto: refresh slow_metrics.json $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
