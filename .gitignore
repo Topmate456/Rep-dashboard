@@ -1,0 +1,16 @@
+# Secrets — never commit
+.env
+.env.*
+
+# Local cache
+__pycache__/
+*.pyc
+
+# Local dashboard output (regenerated; the deployed copy lives in _site
+# via the workflow, so we don't need to commit these)
+dashboard.html
+dashboard.json
+
+# IDE
+.vscode/
+.idea/
