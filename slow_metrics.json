@@ -1,101 +1,13 @@
 {
-  "computed_at_utc": "2026-05-28T13:10:48.935708+00:00",
-  "computed_at_ist": "2026-05-28 18:40:48 IST",
+  "computed_at_utc": "2026-05-29T12:44:30.832505+00:00",
+  "computed_at_ist": "2026-05-29 18:14:30 IST",
   "by_owner": {
-    "163652233": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": [
-        {
-          "reason": "He has stared a meta project so cant go to Europe now",
-          "n": 1
-        },
-        {
-          "reason": "completed only the 10th grade in his education,",
-          "n": 1
-        }
-      ]
-    },
     "164055446": {
-      "median_calls_after_dnp": 2,
+      "median_calls_after_dnp": 2.0,
       "top_reasons": []
     },
     "162882560": {
       "median_calls_after_dnp": 1,
-      "top_reasons": []
-    },
-    "162063141": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "Fresher not eligible for the cohort",
-          "n": 1
-        },
-        {
-          "reason": "Only Internship Experience -- Not Eligible for the cohort",
-          "n": 1
-        },
-        {
-          "reason": "student not eligible 4th year",
-          "n": 1
-        }
-      ]
-    },
-    "164144991": {
-      "median_calls_after_dnp": 3.0,
-      "top_reasons": []
-    },
-    "164253078": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "164253080": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "164253073": {
-      "median_calls_after_dnp": 2,
-      "top_reasons": [
-        {
-          "reason": "Price Issue",
-          "n": 1
-        }
-      ]
-    },
-    "164253075": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "164253082": {
-      "median_calls_after_dnp": 4,
-      "top_reasons": []
-    },
-    "163540261": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": []
-    },
-    "164253076": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "164373377": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "164253081": {
-      "median_calls_after_dnp": 3.0,
-      "top_reasons": [
-        {
-          "reason": "Not even ready in 35 K",
-          "n": 1
-        }
-      ]
-    },
-    "163983265": {
-      "median_calls_after_dnp": 2,
-      "top_reasons": []
-    },
-    "164253071": {
-      "median_calls_after_dnp": 4.0,
       "top_reasons": []
     },
     "162882125": {
@@ -111,12 +23,122 @@
         }
       ]
     },
-    "162063143": {
-      "median_calls_after_dnp": 1.0,
+    "163652233": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": [
+        {
+          "reason": "He has stared a meta project so cant go to Europe now",
+          "n": 1
+        },
+        {
+          "reason": "completed only the 10th grade in his education,",
+          "n": 1
+        }
+      ]
+    },
+    "164253073": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": [
+        {
+          "reason": "Price Issue",
+          "n": 1
+        }
+      ]
+    },
+    "164253079": {
+      "median_calls_after_dnp": 3.0,
+      "top_reasons": []
+    },
+    "164144991": {
+      "median_calls_after_dnp": 3,
       "top_reasons": []
     },
     "164373372": {
-      "median_calls_after_dnp": 3.0,
+      "median_calls_after_dnp": 3,
+      "top_reasons": []
+    },
+    "163540261": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": []
+    },
+    "164253078": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": []
+    },
+    "164253071": {
+      "median_calls_after_dnp": 4.0,
+      "top_reasons": []
+    },
+    "162063141": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": [
+        {
+          "reason": "Fresher not eligible for the cohort",
+          "n": 1
+        },
+        {
+          "reason": "Only Internship Experience -- Not Eligible for the cohort",
+          "n": 1
+        },
+        {
+          "reason": "student not eligible 4th year",
+          "n": 1
+        }
+      ]
+    },
+    "164253081": {
+      "median_calls_after_dnp": 3,
+      "top_reasons": [
+        {
+          "reason": "Not even ready in 35 K",
+          "n": 1
+        }
+      ]
+    },
+    "163983265": {
+      "median_calls_after_dnp": 2,
+      "top_reasons": []
+    },
+    "164253074": {
+      "median_calls_after_dnp": 6,
+      "top_reasons": [
+        {
+          "reason": "Service Value Issue",
+          "n": 1
+        },
+        {
+          "reason": "parents are not allowing",
+          "n": 1
+        }
+      ]
+    },
+    "164253075": {
+      "median_calls_after_dnp": 2,
+      "top_reasons": []
+    },
+    "164253080": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": []
+    },
+    "164196512": {
+      "median_calls_after_dnp": 6,
+      "top_reasons": []
+    },
+    "162113583": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": [
+        {
+          "reason": "don't want anything paid , he wants to try it himself",
+          "n": 1
+        },
+        {
+          "reason": "HE mentioned the he won't be paying 42K also as his brother is working in finland he can refer him and his uncel is working in italy so he is having 2 options already , will connect in future if needed .",
+          "n": 1
+        }
+      ]
+    },
+    "164373378": {
+      "median_calls_after_dnp": 2.0,
       "top_reasons": []
     },
     "162063136": {
@@ -132,42 +154,8 @@
         }
       ]
     },
-    "164377719": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": []
-    },
-    "164253074": {
-      "median_calls_after_dnp": 6,
-      "top_reasons": [
-        {
-          "reason": "Service Value Issue",
-          "n": 1
-        },
-        {
-          "reason": "Price Issue",
-          "n": 1
-        },
-        {
-          "reason": "parents are not allowing",
-          "n": 1
-        }
-      ]
-    },
-    "162113583": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": [
-        {
-          "reason": "don't want anything paid , he wants to try it himself",
-          "n": 1
-        },
-        {
-          "reason": "HE mentioned the he won't be paying 42K also as his brother is working in finland he can refer him and his uncel is working in italy so he is having 2 options already , will connect in future if needed .",
-          "n": 1
-        }
-      ]
-    },
     "164504512": {
-      "median_calls_after_dnp": 3,
+      "median_calls_after_dnp": 3.0,
       "top_reasons": [
         {
           "reason": "he is unemployed, is still a student.",
@@ -183,45 +171,48 @@
         }
       ]
     },
-    "164373378": {
-      "median_calls_after_dnp": 2,
+    "162063126": {
+      "median_calls_after_dnp": 1.0,
       "top_reasons": []
     },
-    "164253079": {
-      "median_calls_after_dnp": 3,
+    "164373377": {
+      "median_calls_after_dnp": 2.0,
       "top_reasons": []
     },
-    "164757276": {
-      "median_calls_after_dnp": 3.5,
+    "162063143": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": []
+    },
+    "164377719": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": []
+    },
+    "162245914": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": []
+    },
+    "162063135": {
+      "median_calls_after_dnp": 1,
       "top_reasons": []
     },
     "162134439": {
       "median_calls_after_dnp": 1,
       "top_reasons": []
     },
-    "162245914": {
-      "median_calls_after_dnp": 1.0,
+    "164253082": {
+      "median_calls_after_dnp": 4,
       "top_reasons": []
-    },
-    "162063128": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "Not interested as of now/ as she already made payment for another institute.",
-          "n": 1
-        },
-        {
-          "reason": "Price concern",
-          "n": 1
-        }
-      ]
     },
     "162134440": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": []
     },
-    "162063126": {
-      "median_calls_after_dnp": 1.0,
+    "164253076": {
+      "median_calls_after_dnp": 2,
+      "top_reasons": []
+    },
+    "164757276": {
+      "median_calls_after_dnp": 3.5,
       "top_reasons": []
     },
     "164253072": {
@@ -254,24 +245,29 @@
         }
       ]
     },
+    "162063128": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": [
+        {
+          "reason": "Not interested as of now/ as she already made payment for another institute.",
+          "n": 1
+        },
+        {
+          "reason": "Price concern",
+          "n": 1
+        }
+      ]
+    },
     "162063129": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": []
     },
     "162063130": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": []
     },
-    "162063135": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": []
-    },
-    "164196512": {
-      "median_calls_after_dnp": 6,
-      "top_reasons": []
-    },
     "164375864": {
-      "median_calls_after_dnp": 0.0,
+      "median_calls_after_dnp": 0,
       "top_reasons": []
     }
   }
