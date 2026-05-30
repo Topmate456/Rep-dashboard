@@ -1,27 +1,18 @@
 {
-  "computed_at_utc": "2026-05-29T12:44:30.832505+00:00",
-  "computed_at_ist": "2026-05-29 18:14:30 IST",
+  "computed_at_utc": "2026-05-30T09:24:53.439691+00:00",
+  "computed_at_ist": "2026-05-30 14:54:53 IST",
   "by_owner": {
     "164055446": {
       "median_calls_after_dnp": 2.0,
       "top_reasons": []
     },
+    "164144991": {
+      "median_calls_after_dnp": 3.0,
+      "top_reasons": []
+    },
     "162882560": {
       "median_calls_after_dnp": 1,
       "top_reasons": []
-    },
-    "162882125": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": [
-        {
-          "reason": "not doing job, stays in dubai with wife so funds issue",
-          "n": 1
-        },
-        {
-          "reason": "Funds problem",
-          "n": 1
-        }
-      ]
     },
     "163652233": {
       "median_calls_after_dnp": 2.0,
@@ -45,28 +36,55 @@
         }
       ]
     },
-    "164253079": {
-      "median_calls_after_dnp": 3.0,
+    "162882125": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": [
+        {
+          "reason": "not doing job, stays in dubai with wife so funds issue",
+          "n": 1
+        },
+        {
+          "reason": "Funds problem",
+          "n": 1
+        }
+      ]
+    },
+    "164253074": {
+      "median_calls_after_dnp": 6,
+      "top_reasons": [
+        {
+          "reason": "Service Value Issue",
+          "n": 1
+        },
+        {
+          "reason": "parents are not allowing",
+          "n": 1
+        }
+      ]
+    },
+    "163983265": {
+      "median_calls_after_dnp": 2.0,
       "top_reasons": []
     },
-    "164144991": {
-      "median_calls_after_dnp": 3,
+    "164253081": {
+      "median_calls_after_dnp": 3.0,
+      "top_reasons": [
+        {
+          "reason": "Not even ready in 35 K",
+          "n": 1
+        }
+      ]
+    },
+    "164196512": {
+      "median_calls_after_dnp": 6,
       "top_reasons": []
     },
     "164373372": {
       "median_calls_after_dnp": 3,
       "top_reasons": []
     },
-    "163540261": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": []
-    },
-    "164253078": {
+    "164253080": {
       "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "164253071": {
-      "median_calls_after_dnp": 4.0,
       "top_reasons": []
     },
     "162063141": {
@@ -86,43 +104,46 @@
         }
       ]
     },
-    "164253081": {
-      "median_calls_after_dnp": 3,
-      "top_reasons": [
-        {
-          "reason": "Not even ready in 35 K",
-          "n": 1
-        }
-      ]
+    "164253071": {
+      "median_calls_after_dnp": 4,
+      "top_reasons": []
     },
-    "163983265": {
+    "164253075": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": []
+    },
+    "164373377": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": []
+    },
+    "164253082": {
+      "median_calls_after_dnp": 4,
+      "top_reasons": []
+    },
+    "164253079": {
+      "median_calls_after_dnp": 3.0,
+      "top_reasons": []
+    },
+    "164253076": {
       "median_calls_after_dnp": 2,
       "top_reasons": []
     },
-    "164253074": {
-      "median_calls_after_dnp": 6,
+    "162063143": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": []
+    },
+    "162063136": {
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
           "reason": "Service Value Issue",
           "n": 1
         },
         {
-          "reason": "parents are not allowing",
+          "reason": "Price Issue",
           "n": 1
         }
       ]
-    },
-    "164253075": {
-      "median_calls_after_dnp": 2,
-      "top_reasons": []
-    },
-    "164253080": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "164196512": {
-      "median_calls_after_dnp": 6,
-      "top_reasons": []
     },
     "162113583": {
       "median_calls_after_dnp": 2.0,
@@ -137,25 +158,8 @@
         }
       ]
     },
-    "164373378": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "162063136": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "Service Value Issue",
-          "n": 1
-        },
-        {
-          "reason": "Price Issue",
-          "n": 1
-        }
-      ]
-    },
     "164504512": {
-      "median_calls_after_dnp": 3.0,
+      "median_calls_after_dnp": 3,
       "top_reasons": [
         {
           "reason": "he is unemployed, is still a student.",
@@ -166,53 +170,41 @@
           "n": 1
         },
         {
-          "reason": "\"As I currently possess a 1-year LinkedIn Career Premium subscription and am professionally engaged, I do not require this offering.\"",
+          "reason": "transitioned to a finance role and isnt really interested",
           "n": 1
         }
       ]
     },
-    "162063126": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": []
-    },
-    "164373377": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": []
-    },
-    "162063143": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": []
-    },
-    "164377719": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": []
-    },
-    "162245914": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": []
-    },
-    "162063135": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": []
-    },
-    "162134439": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": []
-    },
-    "164253082": {
-      "median_calls_after_dnp": 4,
-      "top_reasons": []
-    },
-    "162134440": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": []
-    },
-    "164253076": {
+    "164373378": {
       "median_calls_after_dnp": 2,
       "top_reasons": []
     },
     "164757276": {
       "median_calls_after_dnp": 3.5,
+      "top_reasons": []
+    },
+    "162134439": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": []
+    },
+    "162063126": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": []
+    },
+    "162063135": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": []
+    },
+    "164375864": {
+      "median_calls_after_dnp": 0,
+      "top_reasons": []
+    },
+    "164253078": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": []
+    },
+    "162134440": {
+      "median_calls_after_dnp": 1.0,
       "top_reasons": []
     },
     "164253072": {
@@ -223,6 +215,10 @@
           "n": 1
         }
       ]
+    },
+    "162245914": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": []
     },
     "164253068": {
       "median_calls_after_dnp": 0,
@@ -259,15 +255,19 @@
       ]
     },
     "162063129": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": []
     },
     "162063130": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": []
     },
-    "164375864": {
-      "median_calls_after_dnp": 0,
+    "164377719": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": []
+    },
+    "163540261": {
+      "median_calls_after_dnp": 1,
       "top_reasons": []
     }
   }
