@@ -1,41 +1,7 @@
 {
-  "computed_at_utc": "2026-06-24T11:42:16.017341+00:00",
-  "computed_at_ist": "2026-06-24 17:12:16 IST",
+  "computed_at_utc": "2026-06-25T04:56:28.518530+00:00",
+  "computed_at_ist": "2026-06-25 10:26:28 IST",
   "by_owner": {
-    "162245914": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": [
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 9
-        },
-        {
-          "reason": "Never responded",
-          "n": 8
-        },
-        {
-          "reason": "No intent",
-          "n": 7
-        }
-      ]
-    },
-    "164144991": {
-      "median_calls_after_dnp": 4,
-      "top_reasons": [
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 6
-        },
-        {
-          "reason": "No need - has job",
-          "n": 3
-        },
-        {
-          "reason": "No Budget",
-          "n": 2
-        }
-      ]
-    },
     "164253071": {
       "median_calls_after_dnp": 5,
       "top_reasons": [
@@ -50,57 +16,6 @@
         {
           "reason": "Other",
           "n": 1
-        }
-      ]
-    },
-    "162134440": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": [
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 4
-        },
-        {
-          "reason": "Other",
-          "n": 3
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 1
-        }
-      ]
-    },
-    "164196512": {
-      "median_calls_after_dnp": 6.0,
-      "top_reasons": [
-        {
-          "reason": "Timing / Not Now",
-          "n": 1
-        },
-        {
-          "reason": "Other",
-          "n": 1
-        },
-        {
-          "reason": "No need - has job",
-          "n": 1
-        }
-      ]
-    },
-    "162063141": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 51
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 32
-        },
-        {
-          "reason": "Other",
-          "n": 31
         }
       ]
     },
@@ -121,129 +36,6 @@
         }
       ]
     },
-    "164253082": {
-      "median_calls_after_dnp": 6.0,
-      "top_reasons": [
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 6
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 6
-        },
-        {
-          "reason": "Other",
-          "n": 2
-        }
-      ]
-    },
-    "164373372": {
-      "median_calls_after_dnp": 4.0,
-      "top_reasons": [
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 7
-        },
-        {
-          "reason": "No need - has job",
-          "n": 4
-        },
-        {
-          "reason": "Other",
-          "n": 3
-        }
-      ]
-    },
-    "163983265": {
-      "median_calls_after_dnp": 2,
-      "top_reasons": [
-        {
-          "reason": "No Budget",
-          "n": 6
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 5
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 4
-        }
-      ]
-    },
-    "164253075": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": [
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 4
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 3
-        },
-        {
-          "reason": "No Budget",
-          "n": 2
-        }
-      ]
-    },
-    "164757276": {
-      "median_calls_after_dnp": 3,
-      "top_reasons": []
-    },
-    "164253081": {
-      "median_calls_after_dnp": 3.0,
-      "top_reasons": [
-        {
-          "reason": "Other",
-          "n": 7
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 4
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 4
-        }
-      ]
-    },
-    "164504512": {
-      "median_calls_after_dnp": 4,
-      "top_reasons": [
-        {
-          "reason": "No Budget",
-          "n": 5
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 5
-        },
-        {
-          "reason": "No need - has job",
-          "n": 4
-        }
-      ]
-    },
-    "164253079": {
-      "median_calls_after_dnp": 4,
-      "top_reasons": [
-        {
-          "reason": "Never responded",
-          "n": 30
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 29
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 11
-        }
-      ]
-    },
     "164373377": {
       "median_calls_after_dnp": 1,
       "top_reasons": [
@@ -261,26 +53,39 @@
         }
       ]
     },
-    "162063126": {
-      "median_calls_after_dnp": 1.0,
+    "162134440": {
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
-          "reason": "No Budget",
-          "n": 6
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 4
         },
         {
           "reason": "Other",
-          "n": 6
+          "n": 3
         },
         {
-          "reason": "No need - has job",
-          "n": 5
+          "reason": "Timing / Not Now",
+          "n": 1
         }
       ]
     },
-    "162134439": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": []
+    "162113583": {
+      "median_calls_after_dnp": 2,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 2
+        },
+        {
+          "reason": "don't want anything paid , he wants to try it himself",
+          "n": 1
+        },
+        {
+          "reason": "HE mentioned the he won't be paying 42K also as his brother is working in finland he can refer him and his uncel is working in italy so he is having 2 options already , will connect in future if needed .",
+          "n": 1
+        }
+      ]
     },
     "162882125": {
       "median_calls_after_dnp": 2,
@@ -299,41 +104,45 @@
         }
       ]
     },
-    "164373378": {
-      "median_calls_after_dnp": 3.0,
+    "164504512": {
+      "median_calls_after_dnp": 4.0,
       "top_reasons": [
         {
-          "reason": "No Need / Wrong Fit",
+          "reason": "Not a Real Lead / Wrong Number",
           "n": 8
         },
         {
-          "reason": "Timing / Not Now",
-          "n": 2
+          "reason": "No Budget",
+          "n": 6
         },
         {
-          "reason": "Already Using Alternative",
-          "n": 1
+          "reason": "No Need / Wrong Fit",
+          "n": 5
         }
       ]
     },
-    "164253068": {
-      "median_calls_after_dnp": 0,
+    "164757276": {
+      "median_calls_after_dnp": 3,
       "top_reasons": []
     },
-    "162113583": {
-      "median_calls_after_dnp": 2.0,
+    "162134439": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": []
+    },
+    "162063126": {
+      "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
-          "reason": "No Need / Wrong Fit",
-          "n": 2
+          "reason": "No Budget",
+          "n": 6
         },
         {
-          "reason": "don't want anything paid , he wants to try it himself",
-          "n": 1
+          "reason": "Other",
+          "n": 6
         },
         {
-          "reason": "HE mentioned the he won't be paying 42K also as his brother is working in finland he can refer him and his uncel is working in italy so he is having 2 options already , will connect in future if needed .",
-          "n": 1
+          "reason": "No need - has job",
+          "n": 5
         }
       ]
     },
@@ -354,6 +163,23 @@
         }
       ]
     },
+    "162245914": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 9
+        },
+        {
+          "reason": "Never responded",
+          "n": 8
+        },
+        {
+          "reason": "No intent",
+          "n": 7
+        }
+      ]
+    },
     "163652233": {
       "median_calls_after_dnp": 2.0,
       "top_reasons": [
@@ -368,6 +194,27 @@
         {
           "reason": "completed only the 10th grade in his education,",
           "n": 1
+        }
+      ]
+    },
+    "164253068": {
+      "median_calls_after_dnp": 0,
+      "top_reasons": []
+    },
+    "164253079": {
+      "median_calls_after_dnp": 4.0,
+      "top_reasons": [
+        {
+          "reason": "Never responded",
+          "n": 30
+        },
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 29
+        },
+        {
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 11
         }
       ]
     },
@@ -389,7 +236,7 @@
       ]
     },
     "162063127": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": []
     },
     "164253074": {
@@ -494,6 +341,57 @@
         }
       ]
     },
+    "164144991": {
+      "median_calls_after_dnp": 4,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 6
+        },
+        {
+          "reason": "No need - has job",
+          "n": 3
+        },
+        {
+          "reason": "No Budget",
+          "n": 3
+        }
+      ]
+    },
+    "164373378": {
+      "median_calls_after_dnp": 3.0,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 8
+        },
+        {
+          "reason": "Timing / Not Now",
+          "n": 3
+        },
+        {
+          "reason": "Already Using Alternative",
+          "n": 1
+        }
+      ]
+    },
+    "164253081": {
+      "median_calls_after_dnp": 3.0,
+      "top_reasons": [
+        {
+          "reason": "Other",
+          "n": 7
+        },
+        {
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 4
+        },
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 4
+        }
+      ]
+    },
     "162063135": {
       "median_calls_after_dnp": 1,
       "top_reasons": [
@@ -562,12 +460,97 @@
         }
       ]
     },
+    "164196512": {
+      "median_calls_after_dnp": 6.0,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 2
+        },
+        {
+          "reason": "Timing / Not Now",
+          "n": 1
+        },
+        {
+          "reason": "Other",
+          "n": 1
+        }
+      ]
+    },
     "164375864": {
       "median_calls_after_dnp": 0,
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
           "n": 5
+        }
+      ]
+    },
+    "164253075": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 4
+        },
+        {
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 3
+        },
+        {
+          "reason": "No Budget",
+          "n": 2
+        }
+      ]
+    },
+    "163983265": {
+      "median_calls_after_dnp": 2,
+      "top_reasons": [
+        {
+          "reason": "No Budget",
+          "n": 7
+        },
+        {
+          "reason": "Timing / Not Now",
+          "n": 5
+        },
+        {
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 4
+        }
+      ]
+    },
+    "164253082": {
+      "median_calls_after_dnp": 6.0,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 6
+        },
+        {
+          "reason": "Timing / Not Now",
+          "n": 6
+        },
+        {
+          "reason": "Other",
+          "n": 2
+        }
+      ]
+    },
+    "162063141": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 53
+        },
+        {
+          "reason": "Timing / Not Now",
+          "n": 34
+        },
+        {
+          "reason": "Other",
+          "n": 31
         }
       ]
     },
@@ -585,6 +568,23 @@
         {
           "reason": "Not a Real Lead / Wrong Number",
           "n": 7
+        }
+      ]
+    },
+    "164373372": {
+      "median_calls_after_dnp": 4.0,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 7
+        },
+        {
+          "reason": "No need - has job",
+          "n": 4
+        },
+        {
+          "reason": "Other",
+          "n": 3
         }
       ]
     },
