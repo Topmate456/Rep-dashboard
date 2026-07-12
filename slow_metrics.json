@@ -1,9 +1,9 @@
 {
-  "computed_at_utc": "2026-07-11T04:09:20.978889+00:00",
-  "computed_at_ist": "2026-07-11 09:39:20 IST",
+  "computed_at_utc": "2026-07-12T04:25:24.133456+00:00",
+  "computed_at_ist": "2026-07-12 09:55:24 IST",
   "by_owner": {
     "164373377": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "Not a Real Lead / Wrong Number",
@@ -21,7 +21,12 @@
     },
     "162134440": {
       "median_calls_after_dnp": 1.0,
-      "top_reasons": []
+      "top_reasons": [
+        {
+          "reason": "Unresponsive / Ghosted",
+          "n": 1
+        }
+      ]
     },
     "162113583": {
       "median_calls_after_dnp": 2.0,
@@ -36,11 +41,11 @@
         },
         {
           "reason": "No Need / Wrong Fit",
-          "n": 7
+          "n": 8
         },
         {
           "reason": "Other",
-          "n": 5
+          "n": 6
         }
       ]
     },
@@ -83,10 +88,14 @@
       "top_reasons": []
     },
     "162134439": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "No Budget",
+          "n": 1
+        },
+        {
+          "reason": "No intent",
           "n": 1
         },
         {
@@ -246,7 +255,12 @@
     },
     "162063129": {
       "median_calls_after_dnp": 1,
-      "top_reasons": []
+      "top_reasons": [
+        {
+          "reason": "Unresponsive / Ghosted",
+          "n": 1
+        }
+      ]
     },
     "164253071": {
       "median_calls_after_dnp": 5,
@@ -307,16 +321,16 @@
       "median_calls_after_dnp": 3,
       "top_reasons": [
         {
+          "reason": "Other",
+          "n": 5
+        },
+        {
           "reason": "No intent",
-          "n": 2
+          "n": 4
         },
         {
           "reason": "Timing / Not Now",
-          "n": 2
-        },
-        {
-          "reason": "Other",
-          "n": 2
+          "n": 4
         }
       ]
     },
@@ -393,11 +407,11 @@
           "n": 3
         },
         {
-          "reason": "Price Issue",
-          "n": 1
+          "reason": "No intent",
+          "n": 2
         },
         {
-          "reason": "Unresponsive / Ghosted",
+          "reason": "Price Issue",
           "n": 1
         }
       ]
@@ -407,7 +421,7 @@
       "top_reasons": [
         {
           "reason": "No Budget",
-          "n": 10
+          "n": 8
         },
         {
           "reason": "No need - has job",
@@ -415,7 +429,7 @@
         },
         {
           "reason": "Timing / Not Now",
-          "n": 6
+          "n": 5
         }
       ]
     },
@@ -441,15 +455,15 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 40
+          "n": 44
         },
         {
           "reason": "Other",
-          "n": 32
+          "n": 34
         },
         {
           "reason": "Timing / Not Now",
-          "n": 26
+          "n": 27
         }
       ]
     },
