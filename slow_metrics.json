@@ -1,13 +1,13 @@
 {
-  "computed_at_utc": "2026-07-23T04:10:01.364467+00:00",
-  "computed_at_ist": "2026-07-23 09:40:01 IST",
+  "computed_at_utc": "2026-07-24T04:09:35.534830+00:00",
+  "computed_at_ist": "2026-07-24 09:39:35 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1,
       "top_reasons": []
     },
     "162134440": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": []
     },
     "162113583": {
@@ -24,11 +24,11 @@
       "top_reasons": [
         {
           "reason": "Other",
-          "n": 2
+          "n": 6
         },
         {
           "reason": "Timing / Not Now",
-          "n": 1
+          "n": 2
         },
         {
           "reason": "No need - has job",
@@ -75,7 +75,7 @@
       "top_reasons": []
     },
     "162134439": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "No need - has job",
@@ -85,7 +85,16 @@
     },
     "162063126": {
       "median_calls_after_dnp": 1,
-      "top_reasons": []
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 1
+        },
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 1
+        }
+      ]
     },
     "164253072": {
       "median_calls_after_dnp": 6.0,
@@ -116,7 +125,7 @@
           "n": 1
         },
         {
-          "reason": "Price Issue",
+          "reason": "Timing / Not Now",
           "n": 1
         }
       ]
@@ -147,6 +156,10 @@
         },
         {
           "reason": "Already Using Alternative",
+          "n": 1
+        },
+        {
+          "reason": "Price Issue",
           "n": 1
         }
       ]
@@ -182,7 +195,7 @@
       ]
     },
     "162882560": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
           "reason": "Timing / Not Now",
@@ -229,7 +242,7 @@
       "top_reasons": []
     },
     "164253071": {
-      "median_calls_after_dnp": 5.0,
+      "median_calls_after_dnp": 5,
       "top_reasons": [
         {
           "reason": "Trust Issue",
@@ -288,20 +301,20 @@
       "top_reasons": [
         {
           "reason": "Other",
-          "n": 1
-        },
-        {
-          "reason": "Service Value Issue",
-          "n": 1
+          "n": 7
         },
         {
           "reason": "No Need / Wrong Fit",
+          "n": 2
+        },
+        {
+          "reason": "No need - has job",
           "n": 1
         }
       ]
     },
     "162063135": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
           "reason": "No need - has job",
@@ -375,7 +388,7 @@
       ]
     },
     "164253075": {
-      "median_calls_after_dnp": 2.0,
+      "median_calls_after_dnp": 2,
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
@@ -383,6 +396,10 @@
         },
         {
           "reason": "No need - has job",
+          "n": 1
+        },
+        {
+          "reason": "Unresponsive / Ghosted",
           "n": 1
         }
       ]
@@ -425,21 +442,21 @@
       "median_calls_after_dnp": 1,
       "top_reasons": [
         {
-          "reason": "Already Using Alternative",
-          "n": 1
-        },
-        {
-          "reason": "Price Issue",
-          "n": 1
-        },
-        {
           "reason": "Timing / Not Now",
+          "n": 4
+        },
+        {
+          "reason": "Unresponsive / Ghosted",
+          "n": 2
+        },
+        {
+          "reason": "Already Using Alternative",
           "n": 1
         }
       ]
     },
     "162063143": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
@@ -455,16 +472,16 @@
       "median_calls_after_dnp": 4,
       "top_reasons": [
         {
+          "reason": "Already Using Alternative",
+          "n": 2
+        },
+        {
           "reason": "Other",
           "n": 2
         },
         {
           "reason": "Price Issue",
           "n": 2
-        },
-        {
-          "reason": "Already Using Alternative",
-          "n": 1
         }
       ]
     },
