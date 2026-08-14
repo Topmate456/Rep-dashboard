@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-08-13T03:21:32.422103+00:00",
-  "computed_at_ist": "2026-08-13 08:51:32 IST",
+  "computed_at_utc": "2026-08-14T03:21:31.388936+00:00",
+  "computed_at_ist": "2026-08-14 08:51:31 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
@@ -45,12 +45,12 @@
       "median_calls_after_dnp": 2.0,
       "top_reasons": [
         {
-          "reason": "Other",
+          "reason": "Unresponsive / Ghosted",
           "n": 13
         },
         {
-          "reason": "Unresponsive / Ghosted",
-          "n": 12
+          "reason": "Other",
+          "n": 13
         },
         {
           "reason": "Never responded",
@@ -114,11 +114,11 @@
       ]
     },
     "162063126": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 10
+          "n": 11
         },
         {
           "reason": "Timing / Not Now",
@@ -126,7 +126,7 @@
         },
         {
           "reason": "No Budget",
-          "n": 6
+          "n": 7
         }
       ]
     },
@@ -135,15 +135,15 @@
       "top_reasons": []
     },
     "162245914": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
           "reason": "Student",
-          "n": 12
+          "n": 14
         },
         {
           "reason": "Not a Real Lead / Wrong Number",
-          "n": 8
+          "n": 11
         },
         {
           "reason": "Service Value Issue",
@@ -152,7 +152,7 @@
       ]
     },
     "163652233": {
-      "median_calls_after_dnp": 2,
+      "median_calls_after_dnp": 2.0,
       "top_reasons": [
         {
           "reason": "No need - has job",
@@ -194,7 +194,7 @@
         },
         {
           "reason": "Already Using Alternative",
-          "n": 7
+          "n": 8
         },
         {
           "reason": "Timing / Not Now",
@@ -448,14 +448,14 @@
       "top_reasons": [
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 22
+          "n": 28
+        },
+        {
+          "reason": "Never responded",
+          "n": 23
         },
         {
           "reason": "Timing / Not Now",
-          "n": 10
-        },
-        {
-          "reason": "Service Value Issue",
           "n": 10
         }
       ]
@@ -482,15 +482,15 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 24
+          "n": 25
         },
         {
           "reason": "Not a Real Lead / Wrong Number",
-          "n": 19
+          "n": 21
         },
         {
           "reason": "Timing / Not Now",
-          "n": 15
+          "n": 16
         }
       ]
     },
