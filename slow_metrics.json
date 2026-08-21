@@ -1,16 +1,7 @@
 {
-  "computed_at_utc": "2026-08-20T02:19:15.040642+00:00",
-  "computed_at_ist": "2026-08-20 07:49:15 IST",
+  "computed_at_utc": "2026-08-21T02:24:46.948276+00:00",
+  "computed_at_ist": "2026-08-21 07:54:46 IST",
   "by_owner": {
-    "162063129": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "Student",
-          "n": 1
-        }
-      ]
-    },
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
@@ -110,7 +101,7 @@
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
-          "n": 3
+          "n": 4
         },
         {
           "reason": "No Budget",
@@ -127,15 +118,15 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 13
+          "n": 14
         },
         {
           "reason": "No Budget",
-          "n": 11
+          "n": 12
         },
         {
           "reason": "Timing / Not Now",
-          "n": 9
+          "n": 10
         }
       ]
     },
@@ -147,16 +138,16 @@
       "median_calls_after_dnp": 1,
       "top_reasons": [
         {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 14
-        },
-        {
           "reason": "Student",
           "n": 14
         },
         {
-          "reason": "No need - has job",
-          "n": 7
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 13
+        },
+        {
+          "reason": "Never responded",
+          "n": 8
         }
       ]
     },
@@ -198,16 +189,16 @@
       "median_calls_after_dnp": 3.0,
       "top_reasons": [
         {
+          "reason": "No Need / Wrong Fit",
+          "n": 12
+        },
+        {
           "reason": "Already Using Alternative",
           "n": 11
         },
         {
-          "reason": "No Need / Wrong Fit",
-          "n": 11
-        },
-        {
           "reason": "Not a Real Lead / Wrong Number",
-          "n": 8
+          "n": 9
         }
       ]
     },
@@ -284,6 +275,19 @@
         }
       ]
     },
+    "162063129": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "Other",
+          "n": 1
+        },
+        {
+          "reason": "Student",
+          "n": 1
+        }
+      ]
+    },
     "164253071": {
       "median_calls_after_dnp": 4.5,
       "top_reasons": [
@@ -340,7 +344,7 @@
       ]
     },
     "164253081": {
-      "median_calls_after_dnp": 3,
+      "median_calls_after_dnp": 3.0,
       "top_reasons": [
         {
           "reason": "Other",
@@ -422,7 +426,7 @@
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
-          "n": 5
+          "n": 4
         }
       ]
     },
@@ -431,14 +435,14 @@
       "top_reasons": [
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 4
+          "n": 5
         },
         {
           "reason": "No Need / Wrong Fit",
           "n": 3
         },
         {
-          "reason": "No Budget",
+          "reason": "No intent",
           "n": 2
         }
       ]
@@ -482,15 +486,15 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 39
+          "n": 45
         },
         {
           "reason": "Not a Real Lead / Wrong Number",
-          "n": 30
+          "n": 31
         },
         {
           "reason": "Timing / Not Now",
-          "n": 21
+          "n": 23
         }
       ]
     },
