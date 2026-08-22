@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-08-21T02:24:46.948276+00:00",
-  "computed_at_ist": "2026-08-21 07:54:46 IST",
+  "computed_at_utc": "2026-08-22T02:16:47.190314+00:00",
+  "computed_at_ist": "2026-08-22 07:46:47 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
@@ -22,6 +22,10 @@
     "162134440": {
       "median_calls_after_dnp": 1,
       "top_reasons": [
+        {
+          "reason": "No intent",
+          "n": 1
+        },
         {
           "reason": "No Budget",
           "n": 1
@@ -118,11 +122,11 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 14
+          "n": 16
         },
         {
           "reason": "No Budget",
-          "n": 12
+          "n": 13
         },
         {
           "reason": "Timing / Not Now",
@@ -139,11 +143,11 @@
       "top_reasons": [
         {
           "reason": "Student",
-          "n": 14
+          "n": 16
         },
         {
           "reason": "Not a Real Lead / Wrong Number",
-          "n": 13
+          "n": 12
         },
         {
           "reason": "Never responded",
@@ -189,16 +193,16 @@
       "median_calls_after_dnp": 3.0,
       "top_reasons": [
         {
+          "reason": "Already Using Alternative",
+          "n": 13
+        },
+        {
           "reason": "No Need / Wrong Fit",
           "n": 12
         },
         {
-          "reason": "Already Using Alternative",
-          "n": 11
-        },
-        {
           "reason": "Not a Real Lead / Wrong Number",
-          "n": 9
+          "n": 10
         }
       ]
     },
@@ -276,12 +280,8 @@
       ]
     },
     "162063129": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": [
-        {
-          "reason": "Other",
-          "n": 1
-        },
         {
           "reason": "Student",
           "n": 1
@@ -422,7 +422,7 @@
       ]
     },
     "164375864": {
-      "median_calls_after_dnp": 0,
+      "median_calls_after_dnp": 0.0,
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
@@ -459,8 +459,8 @@
           "n": 29
         },
         {
-          "reason": "Timing / Not Now",
-          "n": 23
+          "reason": "Blue collar worker",
+          "n": 27
         }
       ]
     },
@@ -483,20 +483,7 @@
     },
     "162063141": {
       "median_calls_after_dnp": 1,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 45
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 31
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 23
-        }
-      ]
+      "top_reasons": []
     },
     "162063143": {
       "median_calls_after_dnp": 0.0,
