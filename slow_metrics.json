@@ -1,17 +1,17 @@
 {
-  "computed_at_utc": "2026-09-02T05:07:51.378536+00:00",
-  "computed_at_ist": "2026-09-02 10:37:51 IST",
+  "computed_at_utc": "2026-09-03T05:05:42.853879+00:00",
+  "computed_at_ist": "2026-09-03 10:35:42 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
-          "reason": "Price Issue",
+          "reason": "No intent",
           "n": 3
         },
         {
-          "reason": "No intent",
-          "n": 2
+          "reason": "Price Issue",
+          "n": 3
         },
         {
           "reason": "Service Value Issue",
@@ -49,12 +49,12 @@
       "median_calls_after_dnp": 2.0,
       "top_reasons": [
         {
-          "reason": "Unresponsive / Ghosted",
+          "reason": "Other",
           "n": 13
         },
         {
-          "reason": "Other",
-          "n": 13
+          "reason": "Unresponsive / Ghosted",
+          "n": 12
         },
         {
           "reason": "Never responded",
@@ -126,7 +126,7 @@
         },
         {
           "reason": "No Budget",
-          "n": 17
+          "n": 15
         },
         {
           "reason": "Timing / Not Now",
@@ -194,15 +194,15 @@
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
-          "n": 16
+          "n": 17
+        },
+        {
+          "reason": "No need - has job",
+          "n": 15
         },
         {
           "reason": "Already Using Alternative",
           "n": 15
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 14
         }
       ]
     },
@@ -426,7 +426,7 @@
       ]
     },
     "164375864": {
-      "median_calls_after_dnp": 0,
+      "median_calls_after_dnp": 0.0,
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
@@ -435,7 +435,7 @@
       ]
     },
     "164253075": {
-      "median_calls_after_dnp": 2.0,
+      "median_calls_after_dnp": 2,
       "top_reasons": [
         {
           "reason": "Unresponsive / Ghosted",
@@ -490,7 +490,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 55
+          "n": 56
         },
         {
           "reason": "Other",
