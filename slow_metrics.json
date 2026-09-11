@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-09-10T05:17:59.617460+00:00",
-  "computed_at_ist": "2026-09-10 10:47:59 IST",
+  "computed_at_utc": "2026-09-11T05:15:33.608483+00:00",
+  "computed_at_ist": "2026-09-11 10:45:33 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
@@ -11,7 +11,7 @@
         },
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 4
+          "n": 5
         },
         {
           "reason": "Service Value Issue",
@@ -105,14 +105,14 @@
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
-          "n": 7
+          "n": 8
         },
         {
           "reason": "No Budget",
           "n": 5
         },
         {
-          "reason": "No need - has job",
+          "reason": "Price Issue",
           "n": 3
         }
       ]
@@ -122,11 +122,11 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 34
+          "n": 40
         },
         {
           "reason": "No Budget",
-          "n": 16
+          "n": 17
         },
         {
           "reason": "Timing / Not Now",
@@ -146,12 +146,12 @@
           "n": 12
         },
         {
-          "reason": "Not a Real Lead / Wrong Number",
+          "reason": "No Need / Wrong Fit",
           "n": 4
         },
         {
-          "reason": "Timing / Not Now",
-          "n": 3
+          "reason": "Service Value Issue",
+          "n": 4
         }
       ]
     },
@@ -197,11 +197,11 @@
           "n": 12
         },
         {
-          "reason": "No Need / Wrong Fit",
+          "reason": "No Budget",
           "n": 8
         },
         {
-          "reason": "Price Issue",
+          "reason": "No Need / Wrong Fit",
           "n": 8
         }
       ]
@@ -422,7 +422,7 @@
       ]
     },
     "164375864": {
-      "median_calls_after_dnp": 0,
+      "median_calls_after_dnp": 0.0,
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
@@ -438,12 +438,12 @@
           "n": 9
         },
         {
-          "reason": "Unresponsive / Ghosted",
+          "reason": "No Budget",
           "n": 5
         },
         {
-          "reason": "No intent",
-          "n": 4
+          "reason": "Unresponsive / Ghosted",
+          "n": 5
         }
       ]
     },
