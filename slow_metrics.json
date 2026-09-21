@@ -1,24 +1,7 @@
 {
-  "computed_at_utc": "2026-09-20T05:22:14.971647+00:00",
-  "computed_at_ist": "2026-09-20 10:52:14 IST",
+  "computed_at_utc": "2026-09-21T05:28:26.534879+00:00",
+  "computed_at_ist": "2026-09-21 10:58:26 IST",
   "by_owner": {
-    "164253075": {
-      "median_calls_after_dnp": 2.0,
-      "top_reasons": [
-        {
-          "reason": "No intent",
-          "n": 18
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 13
-        },
-        {
-          "reason": "Other",
-          "n": 8
-        }
-      ]
-    },
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
@@ -444,6 +427,23 @@
         {
           "reason": "No Need / Wrong Fit",
           "n": 4
+        }
+      ]
+    },
+    "164253075": {
+      "median_calls_after_dnp": 2.0,
+      "top_reasons": [
+        {
+          "reason": "No intent",
+          "n": 18
+        },
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 13
+        },
+        {
+          "reason": "Other",
+          "n": 8
         }
       ]
     },
