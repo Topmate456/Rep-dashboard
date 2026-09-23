@@ -1,13 +1,30 @@
 {
-  "computed_at_utc": "2026-09-22T05:30:37.319038+00:00",
-  "computed_at_ist": "2026-09-22 11:00:37 IST",
+  "computed_at_utc": "2026-09-23T05:14:50.019666+00:00",
+  "computed_at_ist": "2026-09-23 10:44:50 IST",
   "by_owner": {
+    "164253079": {
+      "median_calls_after_dnp": 3,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 12
+        },
+        {
+          "reason": "No need - has job",
+          "n": 12
+        },
+        {
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 12
+        }
+      ]
+    },
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "No intent",
-          "n": 9
+          "n": 10
         },
         {
           "reason": "Unresponsive / Ghosted",
@@ -105,7 +122,7 @@
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
-          "n": 13
+          "n": 12
         },
         {
           "reason": "Other",
@@ -143,15 +160,15 @@
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
-          "n": 5
+          "n": 6
         },
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 5
+          "n": 6
         },
         {
-          "reason": "Other",
-          "n": 4
+          "reason": "No intent",
+          "n": 5
         }
       ]
     },
@@ -185,23 +202,6 @@
         },
         {
           "reason": "Never responded",
-          "n": 12
-        }
-      ]
-    },
-    "164253079": {
-      "median_calls_after_dnp": 3,
-      "top_reasons": [
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 12
-        },
-        {
-          "reason": "No need - has job",
-          "n": 12
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
           "n": 12
         }
       ]
@@ -396,7 +396,7 @@
       ]
     },
     "162063136": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "Service Value Issue",
@@ -431,7 +431,7 @@
       ]
     },
     "164253075": {
-      "median_calls_after_dnp": 2.0,
+      "median_calls_after_dnp": 2,
       "top_reasons": [
         {
           "reason": "No intent",
@@ -439,7 +439,7 @@
         },
         {
           "reason": "No Need / Wrong Fit",
-          "n": 14
+          "n": 15
         },
         {
           "reason": "Not a Real Lead / Wrong Number",
