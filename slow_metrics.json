@@ -1,24 +1,7 @@
 {
-  "computed_at_utc": "2026-09-24T05:25:48.726993+00:00",
-  "computed_at_ist": "2026-09-24 10:55:48 IST",
+  "computed_at_utc": "2026-09-25T05:29:01.624498+00:00",
+  "computed_at_ist": "2026-09-25 10:59:01 IST",
   "by_owner": {
-    "164253075": {
-      "median_calls_after_dnp": 2,
-      "top_reasons": [
-        {
-          "reason": "Other",
-          "n": 40
-        },
-        {
-          "reason": "No intent",
-          "n": 20
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 15
-        }
-      ]
-    },
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
@@ -27,11 +10,11 @@
           "n": 10
         },
         {
-          "reason": "Unresponsive / Ghosted",
-          "n": 5
+          "reason": "Service Value Issue",
+          "n": 6
         },
         {
-          "reason": "Service Value Issue",
+          "reason": "Unresponsive / Ghosted",
           "n": 5
         }
       ]
@@ -50,7 +33,7 @@
       ]
     },
     "162113583": {
-      "median_calls_after_dnp": 2.0,
+      "median_calls_after_dnp": 2,
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
@@ -97,14 +80,14 @@
       "top_reasons": [
         {
           "reason": "Not a Real Lead / Wrong Number",
-          "n": 15
+          "n": 14
         },
         {
           "reason": "Timing / Not Now",
           "n": 4
         },
         {
-          "reason": "No Budget",
+          "reason": "No Need / Wrong Fit",
           "n": 3
         }
       ]
@@ -125,8 +108,8 @@
           "n": 8
         },
         {
-          "reason": "Never responded",
-          "n": 7
+          "reason": "No need - has job",
+          "n": 6
         }
       ]
     },
@@ -440,6 +423,23 @@
         {
           "reason": "No Need / Wrong Fit",
           "n": 4
+        }
+      ]
+    },
+    "164253075": {
+      "median_calls_after_dnp": 2,
+      "top_reasons": [
+        {
+          "reason": "Other",
+          "n": 41
+        },
+        {
+          "reason": "No intent",
+          "n": 13
+        },
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 13
         }
       ]
     },
