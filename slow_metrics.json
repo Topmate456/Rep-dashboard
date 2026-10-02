@@ -1,41 +1,7 @@
 {
-  "computed_at_utc": "2026-10-01T06:35:50.472382+00:00",
-  "computed_at_ist": "2026-10-01 12:05:50 IST",
+  "computed_at_utc": "2026-10-02T06:15:06.180285+00:00",
+  "computed_at_ist": "2026-10-02 11:45:06 IST",
   "by_owner": {
-    "162063126": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 49
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 23
-        },
-        {
-          "reason": "No intent",
-          "n": 22
-        }
-      ]
-    },
-    "164253079": {
-      "median_calls_after_dnp": 3,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 17
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 15
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 11
-        }
-      ]
-    },
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
@@ -147,6 +113,23 @@
         }
       ]
     },
+    "162063126": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 50
+        },
+        {
+          "reason": "No intent",
+          "n": 23
+        },
+        {
+          "reason": "Timing / Not Now",
+          "n": 23
+        }
+      ]
+    },
     "164253072": {
       "median_calls_after_dnp": 6,
       "top_reasons": []
@@ -198,6 +181,23 @@
         },
         {
           "reason": "Never responded",
+          "n": 12
+        }
+      ]
+    },
+    "164253079": {
+      "median_calls_after_dnp": 3,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 18
+        },
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 15
+        },
+        {
+          "reason": "No Budget",
           "n": 12
         }
       ]
@@ -357,7 +357,7 @@
       ]
     },
     "162063135": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
           "reason": "No need - has job",
