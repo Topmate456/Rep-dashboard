@@ -1,21 +1,89 @@
 {
-  "computed_at_utc": "2026-10-05T06:19:46.796498+00:00",
-  "computed_at_ist": "2026-10-05 11:49:46 IST",
+  "computed_at_utc": "2026-10-06T06:58:31.535465+00:00",
+  "computed_at_ist": "2026-10-06 12:28:31 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "No intent",
-          "n": 13
+          "n": 14
         },
         {
           "reason": "Service Value Issue",
-          "n": 9
+          "n": 11
         },
         {
           "reason": "Unresponsive / Ghosted",
           "n": 5
+        }
+      ]
+    },
+    "164253079": {
+      "median_calls_after_dnp": 3,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 18
+        },
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 15
+        },
+        {
+          "reason": "No Budget",
+          "n": 12
+        }
+      ]
+    },
+    "162063126": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 50
+        },
+        {
+          "reason": "Other",
+          "n": 25
+        },
+        {
+          "reason": "No intent",
+          "n": 23
+        }
+      ]
+    },
+    "162245914": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "Student",
+          "n": 12
+        },
+        {
+          "reason": "No intent",
+          "n": 9
+        },
+        {
+          "reason": "Unresponsive / Ghosted",
+          "n": 9
+        }
+      ]
+    },
+    "162063141": {
+      "median_calls_after_dnp": 1,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 65
+        },
+        {
+          "reason": "Other",
+          "n": 20
+        },
+        {
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 17
         }
       ]
     },
@@ -97,7 +165,7 @@
       "top_reasons": []
     },
     "162134439": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "Other",
@@ -113,43 +181,9 @@
         }
       ]
     },
-    "162063126": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 50
-        },
-        {
-          "reason": "No intent",
-          "n": 23
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 23
-        }
-      ]
-    },
     "164253072": {
       "median_calls_after_dnp": 6,
       "top_reasons": []
-    },
-    "162245914": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "Student",
-          "n": 12
-        },
-        {
-          "reason": "No intent",
-          "n": 9
-        },
-        {
-          "reason": "Unresponsive / Ghosted",
-          "n": 9
-        }
-      ]
     },
     "163652233": {
       "median_calls_after_dnp": 2.0,
@@ -185,23 +219,6 @@
         }
       ]
     },
-    "164253079": {
-      "median_calls_after_dnp": 3,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 18
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 15
-        },
-        {
-          "reason": "No Budget",
-          "n": 12
-        }
-      ]
-    },
     "164253073": {
       "median_calls_after_dnp": 3.0,
       "top_reasons": [
@@ -220,7 +237,7 @@
       ]
     },
     "162063127": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": []
     },
     "164253074": {
@@ -474,23 +491,6 @@
         {
           "reason": "Other",
           "n": 1
-        }
-      ]
-    },
-    "162063141": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 65
-        },
-        {
-          "reason": "Other",
-          "n": 20
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 17
         }
       ]
     },
