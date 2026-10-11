@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-10-10T06:24:40.306536+00:00",
-  "computed_at_ist": "2026-10-10 11:54:40 IST",
+  "computed_at_utc": "2026-10-11T06:23:03.194202+00:00",
+  "computed_at_ist": "2026-10-11 11:53:03 IST",
   "by_owner": {
     "164253075": {
       "median_calls_after_dnp": 2.0,
@@ -207,11 +207,11 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 20
+          "n": 21
         },
         {
           "reason": "No Need / Wrong Fit",
-          "n": 16
+          "n": 17
         },
         {
           "reason": "No Budget",
@@ -365,7 +365,7 @@
       ]
     },
     "164253081": {
-      "median_calls_after_dnp": 3,
+      "median_calls_after_dnp": 3.0,
       "top_reasons": [
         {
           "reason": "Other",
@@ -482,7 +482,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 68
+          "n": 69
         },
         {
           "reason": "Other",
