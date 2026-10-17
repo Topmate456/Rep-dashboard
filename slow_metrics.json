@@ -1,13 +1,13 @@
 {
-  "computed_at_utc": "2026-10-16T05:06:09.881355+00:00",
-  "computed_at_ist": "2026-10-16 10:36:09 IST",
+  "computed_at_utc": "2026-10-17T05:01:56.244535+00:00",
+  "computed_at_ist": "2026-10-17 10:31:56 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "No intent",
-          "n": 18
+          "n": 19
         },
         {
           "reason": "Service Value Issue",
@@ -105,7 +105,7 @@
         },
         {
           "reason": "No need - has job",
-          "n": 5
+          "n": 6
         },
         {
           "reason": "Timing / Not Now",
@@ -122,11 +122,11 @@
         },
         {
           "reason": "No intent",
-          "n": 34
+          "n": 35
         },
         {
           "reason": "Other",
-          "n": 28
+          "n": 31
         }
       ]
     },
@@ -482,7 +482,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 80
+          "n": 82
         },
         {
           "reason": "Other",
@@ -490,7 +490,7 @@
         },
         {
           "reason": "Timing / Not Now",
-          "n": 19
+          "n": 20
         }
       ]
     },
