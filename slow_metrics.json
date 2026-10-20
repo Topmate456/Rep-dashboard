@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-10-19T05:14:42.437492+00:00",
-  "computed_at_ist": "2026-10-19 10:44:42 IST",
+  "computed_at_utc": "2026-10-20T05:20:05.657119+00:00",
+  "computed_at_ist": "2026-10-20 10:50:05 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
@@ -20,7 +20,7 @@
       ]
     },
     "162134440": {
-      "median_calls_after_dnp": 1.0,
+      "median_calls_after_dnp": 1,
       "top_reasons": []
     },
     "162113583": {
@@ -105,7 +105,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 55
+          "n": 57
         },
         {
           "reason": "No intent",
@@ -113,7 +113,7 @@
         },
         {
           "reason": "Other",
-          "n": 33
+          "n": 34
         }
       ]
     },
@@ -126,7 +126,7 @@
       "top_reasons": [
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 10
+          "n": 11
         },
         {
           "reason": "No intent",
@@ -434,7 +434,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 82
+          "n": 84
         },
         {
           "reason": "Timing / Not Now",
@@ -442,7 +442,7 @@
         },
         {
           "reason": "Other",
-          "n": 20
+          "n": 21
         }
       ]
     },
