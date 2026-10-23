@@ -1,21 +1,38 @@
 {
-  "computed_at_utc": "2026-10-22T05:24:32.923615+00:00",
-  "computed_at_ist": "2026-10-22 10:54:32 IST",
+  "computed_at_utc": "2026-10-23T05:27:08.969470+00:00",
+  "computed_at_ist": "2026-10-23 10:57:08 IST",
   "by_owner": {
+    "162134439": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 13
+        },
+        {
+          "reason": "No Budget",
+          "n": 12
+        },
+        {
+          "reason": "Other",
+          "n": 11
+        }
+      ]
+    },
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "No intent",
-          "n": 20
+          "n": 21
+        },
+        {
+          "reason": "Unresponsive / Ghosted",
+          "n": 15
         },
         {
           "reason": "Service Value Issue",
           "n": 13
-        },
-        {
-          "reason": "Unresponsive / Ghosted",
-          "n": 12
         }
       ]
     },
@@ -83,23 +100,6 @@
       "median_calls_after_dnp": 3.0,
       "top_reasons": []
     },
-    "162134439": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 13
-        },
-        {
-          "reason": "No Budget",
-          "n": 12
-        },
-        {
-          "reason": "Other",
-          "n": 11
-        }
-      ]
-    },
     "162063126": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
@@ -113,7 +113,7 @@
         },
         {
           "reason": "Other",
-          "n": 35
+          "n": 36
         }
       ]
     },
@@ -125,12 +125,12 @@
       "median_calls_after_dnp": 1,
       "top_reasons": [
         {
-          "reason": "Unresponsive / Ghosted",
-          "n": 11
+          "reason": "No intent",
+          "n": 13
         },
         {
-          "reason": "No intent",
-          "n": 9
+          "reason": "Unresponsive / Ghosted",
+          "n": 11
         },
         {
           "reason": "No Need / Wrong Fit",
@@ -434,7 +434,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 85
+          "n": 87
         },
         {
           "reason": "Timing / Not Now",
