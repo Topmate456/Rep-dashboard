@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-10-26T05:19:09.485170+00:00",
-  "computed_at_ist": "2026-10-26 10:49:09 IST",
+  "computed_at_utc": "2026-10-27T05:37:58.292629+00:00",
+  "computed_at_ist": "2026-10-27 11:07:58 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
@@ -11,7 +11,7 @@
         },
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 16
+          "n": 17
         },
         {
           "reason": "Service Value Issue",
@@ -105,15 +105,15 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 57
+          "n": 58
         },
         {
           "reason": "No intent",
-          "n": 39
+          "n": 40
         },
         {
           "reason": "Other",
-          "n": 38
+          "n": 39
         }
       ]
     },
@@ -126,14 +126,14 @@
       "top_reasons": [
         {
           "reason": "No intent",
-          "n": 13
+          "n": 14
         },
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 11
+          "n": 13
         },
         {
-          "reason": "No Need / Wrong Fit",
+          "reason": "No Budget",
           "n": 8
         }
       ]
@@ -177,7 +177,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 27
+          "n": 28
         },
         {
           "reason": "No Need / Wrong Fit",
@@ -434,14 +434,14 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 90
+          "n": 91
         },
         {
-          "reason": "Other",
+          "reason": "Timing / Not Now",
           "n": 23
         },
         {
-          "reason": "Not a Real Lead / Wrong Number",
+          "reason": "Other",
           "n": 23
         }
       ]
