@@ -1,7 +1,24 @@
 {
-  "computed_at_utc": "2026-10-27T05:37:58.292629+00:00",
-  "computed_at_ist": "2026-10-27 11:07:58 IST",
+  "computed_at_utc": "2026-10-28T06:17:39.304259+00:00",
+  "computed_at_ist": "2026-10-28 11:47:39 IST",
   "by_owner": {
+    "162063126": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 59
+        },
+        {
+          "reason": "No intent",
+          "n": 43
+        },
+        {
+          "reason": "Other",
+          "n": 40
+        }
+      ]
+    },
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
@@ -11,7 +28,7 @@
         },
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 17
+          "n": 20
         },
         {
           "reason": "Service Value Issue",
@@ -97,23 +114,6 @@
         {
           "reason": "Other",
           "n": 11
-        }
-      ]
-    },
-    "162063126": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 58
-        },
-        {
-          "reason": "No intent",
-          "n": 40
-        },
-        {
-          "reason": "Other",
-          "n": 39
         }
       ]
     },
@@ -434,7 +434,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 91
+          "n": 92
         },
         {
           "reason": "Timing / Not Now",
@@ -456,7 +456,7 @@
       ]
     },
     "164373372": {
-      "median_calls_after_dnp": 4,
+      "median_calls_after_dnp": 3.5,
       "top_reasons": [
         {
           "reason": "Price Issue",
