@@ -1,21 +1,21 @@
 {
-  "computed_at_utc": "2026-10-28T06:17:39.304259+00:00",
-  "computed_at_ist": "2026-10-28 11:47:39 IST",
+  "computed_at_utc": "2026-10-29T06:22:13.332979+00:00",
+  "computed_at_ist": "2026-10-29 11:52:13 IST",
   "by_owner": {
-    "162063126": {
-      "median_calls_after_dnp": 1.0,
+    "162063141": {
+      "median_calls_after_dnp": 1,
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 59
+          "n": 95
         },
         {
-          "reason": "No intent",
-          "n": 43
+          "reason": "Timing / Not Now",
+          "n": 24
         },
         {
-          "reason": "Other",
-          "n": 40
+          "reason": "Not a Real Lead / Wrong Number",
+          "n": 24
         }
       ]
     },
@@ -117,6 +117,23 @@
         }
       ]
     },
+    "162063126": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 59
+        },
+        {
+          "reason": "No intent",
+          "n": 43
+        },
+        {
+          "reason": "Other",
+          "n": 40
+        }
+      ]
+    },
     "164253072": {
       "median_calls_after_dnp": 6,
       "top_reasons": []
@@ -126,7 +143,7 @@
       "top_reasons": [
         {
           "reason": "No intent",
-          "n": 14
+          "n": 17
         },
         {
           "reason": "Unresponsive / Ghosted",
@@ -134,7 +151,7 @@
         },
         {
           "reason": "No Budget",
-          "n": 8
+          "n": 9
         }
       ]
     },
@@ -173,7 +190,7 @@
       ]
     },
     "164253079": {
-      "median_calls_after_dnp": 3,
+      "median_calls_after_dnp": 3.0,
       "top_reasons": [
         {
           "reason": "No need - has job",
@@ -310,7 +327,7 @@
       ]
     },
     "164253081": {
-      "median_calls_after_dnp": 3,
+      "median_calls_after_dnp": 3.0,
       "top_reasons": [
         {
           "reason": "Other",
@@ -429,23 +446,6 @@
         }
       ]
     },
-    "162063141": {
-      "median_calls_after_dnp": 1,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 92
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 23
-        },
-        {
-          "reason": "Other",
-          "n": 23
-        }
-      ]
-    },
     "162063143": {
       "median_calls_after_dnp": 0,
       "top_reasons": [
@@ -473,7 +473,7 @@
       ]
     },
     "164377719": {
-      "median_calls_after_dnp": 1,
+      "median_calls_after_dnp": 1.0,
       "top_reasons": [
         {
           "reason": "No Need / Wrong Fit",
