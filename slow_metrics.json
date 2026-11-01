@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-10-31T06:16:39.364256+00:00",
-  "computed_at_ist": "2026-10-31 11:46:39 IST",
+  "computed_at_utc": "2026-11-01T06:47:06.119492+00:00",
+  "computed_at_ist": "2026-11-01 12:17:06 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
@@ -105,15 +105,15 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 59
+          "n": 60
         },
         {
           "reason": "No intent",
-          "n": 44
+          "n": 46
         },
         {
           "reason": "Other",
-          "n": 41
+          "n": 42
         }
       ]
     },
@@ -181,7 +181,7 @@
         },
         {
           "reason": "No Need / Wrong Fit",
-          "n": 20
+          "n": 21
         },
         {
           "reason": "No Budget",
@@ -434,7 +434,7 @@
       "top_reasons": [
         {
           "reason": "No need - has job",
-          "n": 97
+          "n": 100
         },
         {
           "reason": "Not a Real Lead / Wrong Number",
