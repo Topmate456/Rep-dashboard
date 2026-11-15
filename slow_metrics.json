@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-11-14T07:06:50.402894+00:00",
-  "computed_at_ist": "2026-11-14 12:36:50 IST",
+  "computed_at_utc": "2026-11-15T07:10:11.845169+00:00",
+  "computed_at_ist": "2026-11-15 12:40:11 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
@@ -15,40 +15,6 @@
         },
         {
           "reason": "Service Value Issue",
-          "n": 14
-        }
-      ]
-    },
-    "162063126": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 35
-        },
-        {
-          "reason": "Blue collar worker",
-          "n": 28
-        },
-        {
-          "reason": "Other",
-          "n": 20
-        }
-      ]
-    },
-    "164253079": {
-      "median_calls_after_dnp": 3.0,
-      "top_reasons": [
-        {
-          "reason": "No need - has job",
-          "n": 29
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 21
-        },
-        {
-          "reason": "No Budget",
           "n": 14
         }
       ]
@@ -134,6 +100,23 @@
         }
       ]
     },
+    "162063126": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 35
+        },
+        {
+          "reason": "Blue collar worker",
+          "n": 30
+        },
+        {
+          "reason": "Other",
+          "n": 20
+        }
+      ]
+    },
     "164253072": {
       "median_calls_after_dnp": 6,
       "top_reasons": []
@@ -186,6 +169,23 @@
         {
           "reason": "Not a Real Lead / Wrong Number",
           "n": 21
+        }
+      ]
+    },
+    "164253079": {
+      "median_calls_after_dnp": 3.0,
+      "top_reasons": [
+        {
+          "reason": "No need - has job",
+          "n": 29
+        },
+        {
+          "reason": "No Need / Wrong Fit",
+          "n": 21
+        },
+        {
+          "reason": "No Budget",
+          "n": 14
         }
       ]
     },
