@@ -1,23 +1,10 @@
 {
-  "computed_at_utc": "2026-11-18T08:05:47.047605+00:00",
-  "computed_at_ist": "2026-11-18 13:35:47 IST",
+  "computed_at_utc": "2026-11-19T07:58:48.448398+00:00",
+  "computed_at_ist": "2026-11-19 13:28:48 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "No intent",
-          "n": 22
-        },
-        {
-          "reason": "Unresponsive / Ghosted",
-          "n": 19
-        },
-        {
-          "reason": "Service Value Issue",
-          "n": 14
-        }
-      ]
+      "top_reasons": []
     },
     "162134440": {
       "median_calls_after_dnp": 1,
@@ -85,20 +72,7 @@
     },
     "162134439": {
       "median_calls_after_dnp": 1.0,
-      "top_reasons": [
-        {
-          "reason": "No intent",
-          "n": 2
-        },
-        {
-          "reason": "No need - has job",
-          "n": 1
-        },
-        {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 1
-        }
-      ]
+      "top_reasons": []
     },
     "162063126": {
       "median_calls_after_dnp": 1.0,
@@ -160,15 +134,15 @@
       "top_reasons": [
         {
           "reason": "No intent",
-          "n": 44
+          "n": 37
         },
         {
-          "reason": "No need - has job",
-          "n": 22
+          "reason": "Unresponsive / Ghosted",
+          "n": 37
         },
         {
-          "reason": "Not a Real Lead / Wrong Number",
-          "n": 21
+          "reason": "Other",
+          "n": 27
         }
       ]
     },
@@ -380,35 +354,22 @@
     },
     "164253075": {
       "median_calls_after_dnp": 2.0,
-      "top_reasons": [
-        {
-          "reason": "Unresponsive / Ghosted",
-          "n": 1
-        },
-        {
-          "reason": "Timing / Not Now",
-          "n": 1
-        },
-        {
-          "reason": "No Need / Wrong Fit",
-          "n": 1
-        }
-      ]
+      "top_reasons": []
     },
     "163983265": {
       "median_calls_after_dnp": 2.0,
       "top_reasons": [
         {
           "reason": "Unresponsive / Ghosted",
-          "n": 35
+          "n": 33
         },
         {
           "reason": "Never responded",
-          "n": 31
+          "n": 30
         },
         {
           "reason": "Timing / Not Now",
-          "n": 26
+          "n": 25
         }
       ]
     },
