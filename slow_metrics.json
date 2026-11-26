@@ -1,6 +1,6 @@
 {
-  "computed_at_utc": "2026-11-25T09:12:43.715760+00:00",
-  "computed_at_ist": "2026-11-25 14:42:43 IST",
+  "computed_at_utc": "2026-11-26T08:56:57.571426+00:00",
+  "computed_at_ist": "2026-11-26 14:26:57 IST",
   "by_owner": {
     "164373377": {
       "median_calls_after_dnp": 1.0,
@@ -18,10 +18,6 @@
           "n": 1
         }
       ]
-    },
-    "162134439": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": []
     },
     "162134440": {
       "median_calls_after_dnp": 1,
@@ -80,6 +76,10 @@
     },
     "164757276": {
       "median_calls_after_dnp": 3.0,
+      "top_reasons": []
+    },
+    "162134439": {
+      "median_calls_after_dnp": 1.0,
       "top_reasons": []
     },
     "162063126": {
