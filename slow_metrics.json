@@ -1,11 +1,7 @@
 {
-  "computed_at_utc": "2026-11-27T09:09:45.305734+00:00",
-  "computed_at_ist": "2026-11-27 14:39:45 IST",
+  "computed_at_utc": "2026-11-28T08:28:01.062751+00:00",
+  "computed_at_ist": "2026-11-28 13:58:01 IST",
   "by_owner": {
-    "162134439": {
-      "median_calls_after_dnp": 1.0,
-      "top_reasons": []
-    },
     "164373377": {
       "median_calls_after_dnp": 1.0,
       "top_reasons": [
@@ -19,6 +15,15 @@
         },
         {
           "reason": "No intent",
+          "n": 1
+        }
+      ]
+    },
+    "162134439": {
+      "median_calls_after_dnp": 1.0,
+      "top_reasons": [
+        {
+          "reason": "Unresponsive / Ghosted",
           "n": 1
         }
       ]
@@ -346,12 +351,7 @@
     },
     "164253075": {
       "median_calls_after_dnp": 2.0,
-      "top_reasons": [
-        {
-          "reason": "Other",
-          "n": 1
-        }
-      ]
+      "top_reasons": []
     },
     "163983265": {
       "median_calls_after_dnp": 2.0,
